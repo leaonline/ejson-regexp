@@ -6,6 +6,6 @@ Slightly modified version of the [gist](https://gist.github.com/TimFletcher/1fc4
 Just add the package to enable regular expressions as EJSON type:
 
 ```bash
-$ meteor add jkuester:ejson-regexp
+$ meteor add leaonline:ejson-regexp
 ```  
 
